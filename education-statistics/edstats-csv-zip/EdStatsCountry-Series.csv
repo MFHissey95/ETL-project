@@ -1,0 +1,614 @@
+﻿ID Unique,CountryCode,SeriesCode,DESCRIPTION
+1,ABW,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+2,ABW,SP.POP.GROW,Data sources: United Nations World Population Prospects
+3,AFG,SP.POP.GROW,Data sources: United Nations World Population Prospects
+4,AFG,NY.GDP.PCAP.PP.CD,Estimates are based on regression.
+5,AFG,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+6,AFG,NY.GDP.MKTP.PP.KD,Estimates are based on regression.
+7,AFG,NY.GNP.MKTP.PP.CD,Estimates are based on regression.
+8,AFG,NY.GDP.MKTP.PP.CD,Estimates are based on regression.
+9,AFG,NY.GDP.PCAP.PP.KD,Estimates are based on regression.
+10,AFG,NY.GNP.PCAP.PP.CD,Estimates are based on regression.
+11,AGO,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+12,AGO,SP.POP.GROW,Data sources: United Nations World Population Prospects
+13,ALB,SP.POP.GROW,Data sources: United Nations World Population Prospects
+14,ALB,SP.POP.TOTL,"Data sources : Institute of Statistics, Eurostat"
+15,AND,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+16,AND,SP.POP.GROW,Data sources: United Nations World Population Prospects
+17,ARE,SP.POP.GROW,Data sources: United Nations World Population Prospects
+18,ARE,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+19,ARG,NY.GDP.MKTP.PP.KD,Estimates are based on regression.
+20,ARG,NY.GNP.MKTP.PP.CD,Estimates are based on regression.
+21,ARG,NY.GDP.PCAP.PP.CD,Estimates are based on regression.
+22,ARG,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+23,ARG,NY.GNP.PCAP.PP.CD,Estimates are based on regression.
+24,ARG,NY.GDP.PCAP.PP.KD,Estimates are based on regression.
+25,ARG,SP.POP.GROW,Data sources: United Nations World Population Prospects
+26,ARG,NY.GDP.MKTP.PP.CD,Estimates are based on regression.
+27,ARM,SP.POP.GROW,Data sources: United Nations World Population Prospects
+28,ARM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+29,ASM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+30,ASM,SP.POP.GROW,Data sources: United Nations World Population Prospects
+31,ATG,SP.POP.GROW,Data sources: United Nations World Population Prospects
+32,ATG,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+33,AUS,SP.POP.TOTL,Data sources : Australian Bureau of Statistics
+34,AUS,SP.POP.1564.TO.ZS,"Including Other Territories comprising Jervis Bay Territory, Christmas Island and the Cocos (Keeling) Islands. "
+35,AUS,SP.POP.GROW,Data sources: Australian Bureau of Statistics
+36,AUS,SP.POP.TOTL.MA.ZS,"Including Other Territories comprising Jervis Bay Territory, Christmas Island and the Cocos (Keeling) Islands. "
+37,AUS,SP.POP.TOTL.FE.ZS,"Including Other Territories comprising Jervis Bay Territory, Christmas Island and the Cocos (Keeling) Islands. "
+38,AUS,SP.POP.0014.TO.ZS,"Including Other Territories comprising Jervis Bay Territory, Christmas Island and the Cocos (Keeling) Islands. "
+39,AUT,SP.POP.GROW,Data sources : Eurostat
+40,AUT,SP.POP.TOTL,Data sources : Eurostat
+41,AZE,SP.POP.TOTL,"Data sources : Eurostat, State Statistical Committee, United Nations World Population Prospects"
+42,AZE,SP.POP.GROW,"Data sources: Eurostat, State Statistical Committee, United Nations World Population Prospects"
+43,BDI,SP.POP.GROW,Data sources: United Nations World Population Prospects
+44,BDI,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+45,BEL,SP.POP.TOTL,Data sources : Eurostat
+46,BEL,SP.POP.GROW,Data sources : Eurostat
+47,BEN,SP.POP.GROW,Data sources: United Nations World Population Prospects
+48,BEN,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+49,BFA,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+50,BFA,SP.POP.GROW,Data sources: United Nations World Population Prospects
+51,BGD,SP.POP.GROW,Data sources: United Nations World Population Prospects
+52,BGD,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+53,BGR,SP.POP.TOTL,Data sources : Eurostat
+54,BGR,SP.POP.GROW,Data sources : Eurostat
+55,BHR,SP.POP.GROW,Data sources: United Nations World Population Prospects
+56,BHR,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+57,BHS,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+58,BHS,SP.POP.GROW,Data sources: United Nations World Population Prospects
+59,BIH,SP.POP.GROW,Data sources: United Nations World Population Prospects
+60,BIH,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+61,BLR,SP.POP.TOTL,Data sources : National Statistical Committee of the Republic of Belarus
+62,BLR,SP.POP.GROW,Data sources: National Statistical Committee of the Republic of Belarus
+63,BLZ,SP.POP.GROW,Data sources: United Nations World Population Prospects
+64,BLZ,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+65,BMU,SP.POP.TOTL,Data sources : Bermuda Government Department of Statistics
+66,BMU,SP.POP.GROW,Data sources: Bermuda Government Department of Statistics
+67,BOL,SP.POP.GROW,Data sources: United Nations World Population Prospects
+68,BOL,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+69,BRA,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+70,BRA,SP.POP.GROW,Data sources: United Nations World Population Prospects
+71,BRB,SP.POP.GROW,Data sources: United Nations World Population Prospects
+72,BRB,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+73,BRN,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+74,BRN,SP.POP.GROW,Data sources: United Nations World Population Prospects
+75,BTN,SP.POP.GROW,Data sources: United Nations World Population Prospects
+76,BTN,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+77,BWA,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+78,BWA,SP.POP.GROW,Data sources: United Nations World Population Prospects
+79,CAF,SP.POP.GROW,Data sources: United Nations World Population Prospects
+80,CAF,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+81,CAN,SP.POP.TOTL,Data sources : Statistics Canada
+82,CAN,SP.POP.GROW,Data sources: Statistics Canada
+83,CHE,SP.POP.GROW,Data sources : Eurostat
+84,CHE,SP.POP.TOTL,Data sources : Eurostat
+85,CHI,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+86,CHI,SP.POP.0014.TO.ZS,"Refers to Guernsey, and Jersey."
+87,CHI,SP.POP.1564.TO.ZS,"Refers to Guernsey, and Jersey."
+88,CHI,SP.POP.GROW,Data sources: United Nations World Population Prospects
+89,CHI,SP.POP.TOTL.FE.ZS,"Refers to Guernsey, and Jersey."
+90,CHI,SP.POP.TOTL.MA.ZS,"Refers to Guernsey, and Jersey."
+91,CHL,SP.POP.GROW,Data sources: United Nations World Population Prospects
+92,CHL,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+93,CHN,SP.POP.TOTL,Data sources : National Bureau of Statistics
+94,CHN,SP.POP.0014.TO.ZS,"Excluding Hong Kong SAR, Macao SAR, Taiwan."
+95,CHN,SP.POP.1564.TO.ZS,"Excluding Hong Kong SAR, Macao SAR, Taiwan."
+96,CHN,SP.POP.GROW,Data sources: National Bureau of Statistics
+97,CHN,SP.POP.TOTL.MA.ZS,"Excluding Hong Kong SAR, Macao SAR, Taiwan."
+98,CHN,SP.POP.TOTL.FE.ZS,"Excluding Hong Kong SAR, Macao SAR, Taiwan."
+99,CIV,SP.POP.GROW,Data sources: United Nations World Population Prospects
+100,CIV,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+101,CMR,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+102,CMR,SP.POP.GROW,Data sources: United Nations World Population Prospects
+103,COD,SP.POP.GROW,Data sources: United Nations World Population Prospects
+104,COD,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+105,COG,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+106,COG,SP.POP.GROW,Data sources: United Nations World Population Prospects
+107,COL,SP.POP.GROW,Data sources: United Nations World Population Prospects
+108,COL,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+109,COM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+110,COM,SP.POP.GROW,Data sources: United Nations World Population Prospects
+111,CPV,SP.POP.GROW,Data sources: United Nations World Population Prospects
+112,CPV,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+113,CRI,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+114,CRI,SP.POP.GROW,Data sources: United Nations World Population Prospects
+115,CUB,SP.POP.GROW,Data sources: United Nations World Population Prospects
+116,CUB,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+117,CYM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+118,CYM,SP.POP.GROW,Data sources: United Nations World Population Prospects
+119,CYP,SP.POP.GROW,Data sources: United Nations World Population Prospects
+120,CYP,NY.GDP.PCAP.PP.KD,Data are for areas under the effective control of the Government of the Republic of Cyprus.
+121,CYP,SP.POP.TOTL.FE.ZS,Including Northern-Cyprus.
+122,CYP,SP.POP.TOTL.MA.ZS,Including Northern-Cyprus.
+123,CYP,NY.GNP.PCAP.CD,Data are for areas under the effective control of the Government of the Republic of Cyprus.
+124,CYP,NY.GNP.PCAP.PP.CD,Data are for areas under the effective control of the Government of the Republic of Cyprus.
+125,CYP,SP.POP.0014.TO.ZS,Including Northern-Cyprus.
+126,CYP,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+127,CYP,NY.GDP.PCAP.PP.CD,Data are for areas under the effective control of the Government of the Republic of Cyprus.
+128,CYP,SP.POP.1564.TO.ZS,Including Northern-Cyprus.
+129,CYP,NY.GDP.PCAP.CD,Data are for areas under the effective control of the Government of the Republic of Cyprus.
+130,CYP,NY.GDP.PCAP.KD,Data are for areas under the effective control of the Government of the Republic of Cyprus.
+131,CZE,SP.POP.TOTL,Data sources : Eurostat
+132,CZE,SP.POP.GROW,Data sources : Eurostat
+133,DEU,SP.POP.GROW,Data sources : Eurostat
+134,DEU,SP.POP.TOTL,Data sources : Eurostat
+135,DJI,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+136,DJI,SP.POP.GROW,Data sources: United Nations World Population Prospects
+137,DMA,SP.POP.GROW,Data sources: United Nations World Population Prospects
+138,DMA,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+139,DNK,SP.POP.TOTL,Data sources : Eurostat
+140,DNK,SP.POP.GROW,Data sources : Eurostat
+141,DOM,SP.POP.GROW,Data sources: United Nations World Population Prospects
+142,DOM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+143,DZA,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+144,DZA,SP.POP.GROW,Data sources: United Nations World Population Prospects
+145,ECU,SP.POP.GROW,Data sources: United Nations World Population Prospects
+146,ECU,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+147,EGY,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+148,EGY,SP.POP.GROW,Data sources: United Nations World Population Prospects
+149,ERI,SP.POP.GROW,Data sources: United Nations World Population Prospects
+150,ERI,NY.GDP.PCAP.PP.KD,Estimates are based on regression.
+151,ERI,NY.GDP.MKTP.PP.CD,Estimates are based on regression.
+152,ERI,NY.GNP.PCAP.PP.CD,Estimates are based on regression.
+153,ERI,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+154,ERI,NY.GDP.PCAP.PP.CD,Estimates are based on regression.
+155,ERI,NY.GNP.MKTP.PP.CD,Estimates are based on regression.
+156,ERI,NY.GDP.MKTP.PP.KD,Estimates are based on regression.
+157,ESP,SP.POP.TOTL,Data sources : Eurostat
+158,ESP,SP.POP.GROW,Data sources : Eurostat
+159,EST,SP.POP.GROW,Data sources : Eurostat
+160,EST,SP.POP.TOTL,Data sources : Eurostat
+161,ETH,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+162,ETH,SP.POP.GROW,Data sources: United Nations World Population Prospects
+163,FIN,SP.POP.GROW,Data sources : Eurostat
+164,FIN,SP.POP.TOTL,Data sources : Eurostat
+165,FJI,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+166,FJI,SP.POP.GROW,Data sources: United Nations World Population Prospects
+167,FRA,SP.POP.GROW,"Data sources: Eurostat, United Nations World Population Prospects. Including the French overseas departments of French Guiana, Guadeloupe, Martinique, Mayotte, and Réunion."
+168,FRA,SP.POP.TOTL.MA.ZS,"Including the four French overseas departments (French Guyana, Guadeloupe, Martinique and Réunion)"
+169,FRA,SP.POP.TOTL.FE.ZS,"Including the four French overseas departments (French Guyana, Guadeloupe, Martinique and Réunion)"
+170,FRA,SP.POP.TOTL,"Data sources : Eurostat, United Nations World Population Prospects. Including the French overseas departments of French Guiana, Guadeloupe, Martinique, Mayotte, and Réunion."
+171,FRA,SP.POP.0014.TO.ZS,"Including the four French overseas departments (French Guyana, Guadeloupe, Martinique and Réunion)"
+172,FRA,SP.POP.1564.TO.ZS,"Including the four French overseas departments (French Guyana, Guadeloupe, Martinique and Réunion)"
+173,FRO,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+174,FRO,SP.POP.GROW,Data sources: United Nations World Population Prospects
+175,FSM,SP.POP.GROW,Data sources: United Nations World Population Prospects
+176,FSM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+177,GAB,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+178,GAB,SP.POP.GROW,Data sources: United Nations World Population Prospects
+179,GBR,SP.POP.GROW,Data sources: Eurostat
+180,GBR,SP.POP.TOTL,Data sources : Eurostat
+181,GEO,SP.POP.TOTL,Data sources : GeoStats. GeoStats. Adjusted to mid-year population using geometric mean for the years where mid-year population figures are not available. Excluding Abkhazia and South Ossetia.
+182,GEO,SP.POP.0014.TO.ZS,Including Abkhazia and South Ossetia.
+183,GEO,NY.GDP.PCAP.PP.CD,Excludes Abkhazia and South Ossetia.
+184,GEO,SP.POP.1564.MA.IN,Derived using ratio of age group from WPP and World Bank population.
+185,GEO,SP.POP.0014.TO,Derived using ratio of age group from WPP and World Bank population.
+186,GEO,SP.POP.1564.TO.ZS,Including Abkhazia and South Ossetia.
+187,GEO,NY.GDP.PCAP.KD,Excludes Abkhazia and South Ossetia.
+188,GEO,SP.POP.1564.TO,Derived using ratio of age group from WPP and World Bank population.
+189,GEO,SP.POP.1564.FE.IN,Derived using ratio of age group from WPP and World Bank population.
+190,GEO,NY.GDP.PCAP.CD,Excludes Abkhazia and South Ossetia.
+191,GEO,SP.POP.GROW,Data sources: GeoStats. GeoStats. Adjusted to mid-year population using geometric mean for the years where mid-year population figures are not available. Excluding Abkhazia and South Ossetia.
+192,GEO,SP.POP.0014.MA.IN,Derived using ratio of age group from WPP and World Bank population.
+193,GEO,NY.GDP.PCAP.PP.KD,Excludes Abkhazia and South Ossetia.
+194,GEO,SP.POP.TOTL.FE.ZS,Excluding Abkhazia and South Ossetia.
+195,GEO,SP.POP.0014.FE.IN,Derived using ratio of age group from WPP and World Bank population.
+196,GEO,SP.POP.TOTL.MA.ZS,Excluding Abkhazia and South Ossetia.
+197,GEO,NY.GNP.PCAP.CD,Excludes Abkhazia and South Ossetia.
+198,GEO,NY.GNP.PCAP.PP.CD,Excludes Abkhazia and South Ossetia.
+199,GHA,SP.POP.GROW,Data sources: United Nations World Population Prospects
+200,GHA,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+201,GIB,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+202,GIB,SP.POP.GROW,Data sources : United Nations World Population Prospects
+203,GIN,SP.POP.GROW,Data sources: United Nations World Population Prospects
+204,GIN,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+205,GMB,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+206,GMB,SP.POP.GROW,Data sources: United Nations World Population Prospects
+207,GNB,SP.POP.GROW,Data sources: United Nations World Population Prospects
+208,GNB,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+209,GNQ,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+210,GNQ,SP.POP.GROW,Data sources: United Nations World Population Prospects
+211,GRC,SP.POP.GROW,Data sources : Eurostat
+212,GRC,SP.POP.TOTL,Data sources : Eurostat
+213,GRD,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+214,GRD,SP.POP.GROW,Data sources: United Nations World Population Prospects
+215,GRL,SP.POP.GROW,Data sources: Statistics Greenland
+216,GRL,SP.POP.TOTL,Data sources : Statistics Greenland
+217,GTM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+218,GTM,SP.POP.GROW,Data sources: United Nations World Population Prospects
+219,GUM,SP.POP.GROW,Data sources: United Nations World Population Prospects
+220,GUM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+221,GUY,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+222,GUY,NY.GDP.PCAP.PP.CD,Estimates are based on regression.
+223,GUY,NY.GDP.MKTP.PP.KD,Estimates are based on regression.
+224,GUY,NY.GNP.MKTP.PP.CD,Estimates are based on regression.
+225,GUY,SP.POP.GROW,Data sources: United Nations World Population Prospects
+226,GUY,NY.GDP.PCAP.PP.KD,Estimates are based on regression.
+227,GUY,NY.GDP.MKTP.PP.CD,Estimates are based on regression.
+228,GUY,NY.GNP.PCAP.PP.CD,Estimates are based on regression.
+229,HKG,SP.POP.GROW,Data sources: Census and Statistics Department
+230,HKG,SP.POP.TOTL,Data sources : Census and Statistics Department
+231,HND,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+232,HND,SP.POP.GROW,Data sources: United Nations World Population Prospects
+233,HRV,SP.POP.GROW,"Data sources: Croatian Bureau of Statistics, Council of Europe"
+234,HRV,SP.POP.TOTL,"Data sources : Croatian Bureau of Statistics, Council of Europe"
+235,HTI,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+236,HTI,SP.POP.GROW,Data sources: United Nations World Population Prospects
+237,HUN,SP.POP.GROW,Data sources : Eurostat
+238,HUN,SP.POP.TOTL,Data sources : Eurostat
+239,IDN,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+240,IDN,SP.POP.GROW,Data sources: United Nations World Population Prospects
+241,IMN,SP.POP.GROW,Data sources: United Nations World Population Prospects
+242,IMN,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+243,IND,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+244,IND,SP.POP.GROW,Data sources: United Nations World Population Prospects
+245,IRL,SP.POP.GROW,Data sources : Eurostat
+246,IRL,SP.POP.TOTL,Data sources : Eurostat
+247,IRN,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+248,IRN,SP.POP.GROW,Data sources: United Nations World Population Prospects
+249,IRQ,SP.POP.GROW,Data sources : United Nations World Population Prospects
+250,IRQ,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+251,ISL,SP.POP.TOTL,Data sources : Eurostat
+252,ISL,SP.POP.GROW,Data sources : Eurostat
+253,ISR,SP.POP.GROW,Data sources: Central Bureau of Statistics
+254,ISR,SP.POP.TOTL,Data sources : Central Bureau of Statistics
+255,ITA,SP.POP.TOTL,Data sources : Eurostat
+256,ITA,SP.POP.GROW,Data sources : Eurostat
+257,JAM,SP.POP.GROW,Data sources : United Nations World Population Prospects
+258,JAM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+259,JOR,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+260,JOR,SP.POP.GROW,Data sources : United Nations World Population Prospects
+261,JPN,SP.POP.GROW,"Data sources: Ministry of Internal Affairs and Communications, Statistics Bureau; United Nations Population and Vital Statistics Report"
+262,JPN,SP.POP.TOTL,"Data sources : Ministry of Internal Affairs and Communications, Statistics Bureau; United Nations Population and Vital Statistics Report"
+263,KAZ,SP.POP.TOTL,"Data sources : Statistical Agency of Kazakhstan, 1979 Census, 1989 Census, United Nations World Population Prospects"
+264,KAZ,SP.POP.GROW,"Data sources: Statistical Agency of Kazakhstan, 1979 Census, 1989 Census, United Nations World Population Prospects"
+265,KEN,SP.POP.GROW,Data sources: United Nations World Population Prospects
+266,KEN,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+267,KGZ,SP.POP.TOTL,"Data sources : National Statistical Committee, United Nations World Population Prospects"
+268,KGZ,SP.POP.GROW,"Data sources: National Statistical Committee, United Nations World Population Prospects"
+269,KHM,SP.POP.GROW,Data sources: United Nations World Population Prospects
+270,KHM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+271,KIR,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+272,KIR,SP.POP.GROW,Data sources: United Nations World Population Prospects
+273,KNA,SP.POP.GROW,Data sources: United Nations World Population Prospects
+274,KNA,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+275,KOR,SP.POP.TOTL,Data sources : Korean Statistical Information Service
+276,KOR,SP.POP.GROW,Data sources: Korean Statistical Information Service
+277,KWT,SP.POP.GROW,Data sources: United Nations World Population Prospects
+278,KWT,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+279,LAO,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+280,LAO,SP.POP.GROW,Data sources: United Nations World Population Prospects
+281,LBN,SP.POP.GROW,Data sources : United Nations World Population Prospects
+282,LBN,NY.GDP.MKTP.PP.CD,Estimates are based on regression.
+283,LBN,NY.GDP.PCAP.PP.KD,Estimates are based on regression.
+284,LBN,NY.GNP.PCAP.PP.CD,Estimates are based on regression.
+285,LBN,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+286,LBN,NY.GNP.MKTP.PP.CD,Estimates are based on regression.
+287,LBN,NY.GDP.MKTP.PP.KD,Estimates are based on regression.
+288,LBN,NY.GDP.PCAP.PP.CD,Estimates are based on regression.
+289,LBR,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+290,LBR,SP.POP.GROW,Data sources: United Nations World Population Prospects
+291,LBY,SP.POP.GROW,Data sources: United Nations World Population Prospects
+292,LBY,NY.GDP.MKTP.PP.CD,Estimates are based on regression.
+293,LBY,NY.GNP.PCAP.PP.CD,Estimates are based on regression.
+294,LBY,NY.GDP.PCAP.PP.KD,Estimates are based on regression.
+295,LBY,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+296,LBY,NY.GDP.MKTP.PP.KD,Estimates are based on regression.
+297,LBY,NY.GNP.MKTP.PP.CD,Estimates are based on regression.
+298,LBY,NY.GDP.PCAP.PP.CD,Estimates are based on regression.
+299,LCA,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+300,LCA,SP.POP.GROW,Data sources: United Nations World Population Prospects
+301,LIE,SP.POP.GROW,Data sources: United Nations World Population Prospects
+302,LIE,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+303,LKA,SP.POP.TOTL,"Data sources : Registrar General's Department, Department of Census and Statistics"
+304,LKA,SP.POP.GROW,"Data sources: Registrar General's Department, Department of Census and Statistics"
+305,LSO,SP.POP.GROW,Data sources: United Nations World Population Prospects
+306,LSO,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+307,LTU,SP.POP.TOTL,Data sources : Eurostat
+308,LTU,SP.POP.GROW,Data sources : Eurostat
+309,LUX,SP.POP.GROW,Data sources: Eurostat
+310,LUX,SP.POP.TOTL,Data sources : Eurostat
+311,LVA,SP.POP.TOTL,Data sources : Eurostat
+312,LVA,SP.POP.GROW,Data sources : Eurostat
+313,MAC,SP.POP.GROW,Data sources: United Nations World Population Prospects
+314,MAC,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+315,MAR,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+316,MAR,NY.GDP.PCAP.KD,Includes Former Spanish Sahara.
+317,MAR,SP.POP.1564.TO.ZS,Morocco only. (Excluding former Spanish Sahara)
+318,MAR,NY.GDP.PCAP.CD,Includes Former Spanish Sahara.
+319,MAR,NY.GDP.PCAP.PP.CD,Includes Former Spanish Sahara.
+320,MAR,SP.POP.0014.TO.ZS,Morocco only. (Excluding former Spanish Sahara)
+321,MAR,SP.POP.GROW,Data sources: United Nations World Population Prospects
+322,MAR,NY.GDP.PCAP.PP.KD,Includes Former Spanish Sahara.
+323,MAR,SP.POP.TOTL.FE.ZS,Morocco only. (Excluding former Spanish Sahara)
+324,MAR,SP.POP.TOTL.MA.ZS,Morocco only. (Excluding former Spanish Sahara)
+325,MAR,NY.GNP.PCAP.CD,Includes Former Spanish Sahara.
+326,MAR,NY.GNP.PCAP.PP.CD,Includes Former Spanish Sahara.
+327,MCO,SP.POP.GROW,Data sources: United Nations World Population Prospects
+328,MCO,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+329,MDA,SP.POP.TOTL,"Data sources : National Bureau of Statistics. Excluding Transnistria. For 1950-94, World Bank estimates using UN World Population Prospects' growth rates of whole Moldova."
+330,MDA,NY.GDP.PCAP.CD,Excludes Transnistria.
+331,MDA,SP.POP.1564.TO.ZS,Including Transnistria.
+332,MDA,NY.GDP.PCAP.KD,Excludes Transnistria.
+333,MDA,SP.POP.1564.TO,Derived using ratio of age group from WPP and World Bank population.
+334,MDA,SP.POP.1564.FE.IN,Derived using ratio of age group from WPP and World Bank population.
+335,MDA,SP.POP.0014.TO.ZS,Including Transnistria.
+336,MDA,NY.GDP.PCAP.PP.CD,Excludes Transnistria.
+337,MDA,SP.POP.0014.TO,Derived using ratio of age group from WPP and World Bank population.
+338,MDA,SP.POP.1564.MA.IN,Derived using ratio of age group from WPP and World Bank population.
+339,MDA,SP.POP.GROW,"Data sources: National Bureau of Statistics. Excluding Transnistria. For 1950-94, World Bank estimates using UN World Population Prospects 2010 Revision's growth rates of whole Moldova."
+340,MDA,SP.POP.0014.MA.IN,Derived using ratio of age group from WPP and World Bank population.
+341,MDA,NY.GNP.PCAP.PP.CD,Excludes Transnistria.
+342,MDA,NY.GNP.PCAP.CD,Excludes Transnistria.
+343,MDA,SP.POP.TOTL.MA.ZS,Excluding Transnistria.
+344,MDA,SP.POP.TOTL.FE.ZS,Excluding Transnistria.
+345,MDA,NY.GDP.PCAP.PP.KD,Excludes Transnistria.
+346,MDA,SP.POP.0014.FE.IN,Derived using ratio of age group from WPP and World Bank population.
+347,MDG,SP.POP.GROW,Data sources: United Nations World Population Prospects
+348,MDG,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+349,MDV,SP.POP.TOTL,"Data sources : For 1960-1989, United Nations World Population Prospects. For 1990 onwards, 1990, 1995, 2000, 2006, 2014 censuses, and data on expatriate employment from Maldives National Bureau of Statistics. The census data are adjusted for mid-year and for foreign population."
+350,MDV,SP.POP.GROW,"Data sources: For 1960-1989, United Nations World Population Prospects. For 1990 onwards, 1990, 1995, 2000, 2006, 2014 censuses, and data on expatriate employment from Maldives National Bureau of Statistics. The census data are adjusted for mid-year and for foreign population."
+351,MEX,SP.POP.GROW,Data sources: United Nations World Population Prospects
+352,MEX,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+353,MHL,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+354,MHL,SP.POP.GROW,Data sources: United Nations World Population Prospects
+355,MKD,SP.POP.GROW,Data sources: United Nations World Population Prospects
+356,MKD,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+357,MLI,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+358,MLI,SP.POP.GROW,Data sources: United Nations World Population Prospects
+359,MLT,SP.POP.GROW,Data sources : Eurostat
+360,MLT,SP.POP.TOTL,Data sources : Eurostat
+361,MMR,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+362,MMR,SP.POP.GROW,Data sources: United Nations World Population Prospects
+363,MNE,SP.POP.GROW,"Data sources : For years after 2000, Statistical Office of Montenegro. For years 1960-1999, growth rates of United Nations World Population Prospects were used to estimate backwards."
+364,MNE,SP.POP.TOTL,"Data sources : For years after 2000, Statistical Office of Montenegro. For years 1960-1999, growth rates of United Nations World Population Prospects were used to estimate backwards."
+365,MNG,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+366,MNG,SP.POP.GROW,Data sources: United Nations World Population Prospects
+367,MNP,SP.POP.GROW,Data sources: United Nations World Population Prospects
+368,MNP,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+369,MOZ,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+370,MOZ,SP.POP.GROW,Data sources: United Nations World Population Prospects
+371,MRT,SP.POP.GROW,Data sources: United Nations World Population Prospects
+372,MRT,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+373,MUS,SP.POP.TOTL,"Data sources : Statistics Mauritius, United Nations World Population Prospects"
+374,MUS,SP.POP.1564.FE.IN,Derived using ratio of age group from WPP and World Bank population.
+375,MUS,SP.POP.1564.TO,Derived using ratio of age group from WPP and World Bank population.
+376,MUS,SP.POP.1564.TO.ZS,Including Agalega and St. Brandon.
+377,MUS,SP.POP.1564.MA.IN,Derived using ratio of age group from WPP and World Bank population.
+378,MUS,SP.POP.0014.TO,Derived using ratio of age group from WPP and World Bank population.
+379,MUS,SP.POP.0014.TO.ZS,Including Agalega and St. Brandon.
+380,MUS,SP.POP.GROW,"Data sources: Central Statistics Office, United Nations Population and Vital Statistics Report, United Nations World Population Prospects"
+381,MUS,SP.POP.0014.MA.IN,Derived using ratio of age group from WPP and World Bank population.
+382,MUS,SP.POP.0014.FE.IN,Derived using ratio of age group from WPP and World Bank population.
+383,MUS,SP.POP.TOTL.FE.ZS,Excluding Agalega and St. Brandon.
+384,MUS,SP.POP.TOTL.MA.ZS,Excluding Agalega and St. Brandon.
+385,MWI,SP.POP.GROW,Data sources: United Nations World Population Prospects
+386,MWI,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+387,MYS,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+388,MYS,SP.POP.1564.TO.ZS,Including Sabah and Sarawak.
+389,MYS,SP.POP.0014.TO.ZS,Including Sabah and Sarawak.
+390,MYS,SP.POP.GROW,Data sources: United Nations World Population Prospects
+391,MYS,SP.POP.TOTL.MA.ZS,Including Sabah and Sarawak.
+392,MYS,SP.POP.TOTL.FE.ZS,Including Sabah and Sarawak.
+393,NAM,SP.POP.GROW,Data sources: United Nations World Population Prospects
+394,NAM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+395,NCL,SP.POP.TOTL,Data sources : Institute of Statistics and Economic Studies
+396,NCL,SP.POP.GROW,"Data sources: Institute of Statistics and Economic Studies, 1983 Census, 1989 Census, 1996 Census"
+397,NER,SP.POP.GROW,Data sources: United Nations World Population Prospects
+398,NER,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+399,NGA,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+400,NGA,SP.POP.GROW,Data sources: United Nations World Population Prospects
+401,NIC,SP.POP.GROW,Data sources: United Nations World Population Prospects
+402,NIC,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+403,NLD,SP.POP.TOTL,Data sources : Eurostat
+404,NLD,SP.POP.GROW,Data sources : Eurostat
+405,NOR,SP.POP.GROW,Data sources : Eurostat
+406,NOR,SP.POP.TOTL,Data sources : Eurostat
+407,NPL,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+408,NPL,SP.POP.GROW,Data sources: United Nations World Population Prospects
+409,NZL,SP.POP.GROW,Data sources: Statistics New Zealand
+410,NZL,SP.POP.TOTL,Data sources : Statistics New Zealand
+411,OMN,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+412,OMN,SP.POP.GROW,Data sources: United Nations World Population Prospects
+413,PAK,SP.POP.GROW,Data sources: United Nations World Population Prospects
+414,PAK,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+415,PAN,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+416,PAN,SP.POP.GROW,Data sources: United Nations World Population Prospects
+417,PER,SP.POP.GROW,Data sources: United Nations World Population Prospects
+418,PER,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+419,PHL,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+420,PHL,SP.POP.GROW,Data sources: United Nations World Population Prospects
+421,PLW,SP.POP.GROW,Data sources: United Nations World Population Prospects
+422,PLW,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+423,PNG,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+424,PNG,SP.POP.GROW,Data sources: United Nations World Population Prospects
+425,POL,SP.POP.GROW,Data sources : Eurostat
+426,POL,SP.POP.TOTL,Data sources : Eurostat
+427,PRI,SP.POP.TOTL,"Data sources : U.S. Census Bureau, 1990 Census"
+428,PRI,NY.GNP.MKTP.PP.CD,Estimates are based on regression.
+429,PRI,NY.GDP.MKTP.PP.KD,Estimates are based on regression.
+430,PRI,NY.GDP.PCAP.PP.CD,Estimates are based on regression.
+431,PRI,SP.POP.GROW,"Data sources: U.S. Census Bureau, 1990 Census"
+432,PRI,NY.GDP.MKTP.PP.CD,Estimates are based on regression.
+433,PRI,NY.GDP.PCAP.PP.KD,Estimates are based on regression.
+434,PRI,NY.GNP.PCAP.PP.CD,Estimates are based on regression.
+435,PRK,SP.POP.GROW,Data sources: United Nations World Population Prospects
+436,PRK,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+437,PRT,SP.POP.TOTL,Data sources : Eurostat
+438,PRT,SP.POP.GROW,Data sources : Eurostat
+439,PRY,SP.POP.GROW,Data sources: United Nations World Population Prospects
+440,PRY,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+441,PSE,SP.POP.TOTL,"Data sources : World Bank estimates based on data from Palestinian Central Bureau of Statistics, excluding E. Jerusalem."
+442,PSE,SP.POP.1564.TO.ZS,Excluding East Jerusalem.
+443,PSE,SP.POP.0014.TO.ZS,Excluding East Jerusalem.
+444,PSE,SP.POP.GROW,"Data sources: World Bank estimates based on data from Palestinian Central Bureau of Statistics, excluding E. Jerusalem."
+445,PSE,SP.POP.TOTL.FE.ZS,Excluding East Jerusalem.
+446,PSE,SP.POP.TOTL.MA.ZS,Excluding East Jerusalem.
+447,PYF,SP.POP.GROW,Data sources: United Nations World Population Prospects
+448,PYF,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+449,QAT,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+450,QAT,SP.POP.GROW,Data sources: United Nations World Population Prospects
+451,ROU,SP.POP.GROW,Data sources : Eurostat
+452,ROU,SP.POP.TOTL,Data sources : Eurostat
+453,RUS,SP.POP.TOTL,"Data sources : Russian Federation Federal State Statistics Service (its January 1st populations were adjusted to mid-year populations by using geometric mean), 1979 Census, 1989 Census."
+454,RUS,SP.POP.GROW,"Data sources : Russian Federation Federal State Statistics Service (its January 1st populations were adjusted to mid-year populations by using geometric mean), 1979 Census, 1989 Census."
+455,RWA,SP.POP.GROW,Data sources: United Nations World Population Prospects
+456,RWA,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+457,SAU,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+458,SAU,SP.POP.GROW,Data sources: United Nations World Population Prospects
+459,SDN,SP.POP.GROW,Data sources : United Nations World Population Prospects. Estimates are for Sudan excluding South Sudan.
+460,SDN,SP.POP.TOTL,Data sources : United Nations World Population Prospects. Estimates are for Sudan excluding South Sudan.
+461,SEN,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+462,SEN,SP.POP.GROW,Data sources: United Nations World Population Prospects
+463,SGP,SP.POP.GROW,Data sources: Department of Statistics Singapore
+464,SGP,SP.POP.TOTL,Data sources : Department of Statistics Singapore
+465,SLB,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+466,SLB,SP.POP.GROW,Data sources: United Nations World Population Prospects
+467,SLE,SP.POP.GROW,Data sources: United Nations World Population Prospects
+468,SLE,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+469,SLV,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+470,SLV,SP.POP.GROW,Data sources: United Nations World Population Prospects
+471,SMR,SP.POP.GROW,Data sources: United Nations World Population Prospects
+472,SMR,NY.GDP.PCAP.PP.CD,Estimates are based on regression.
+473,SMR,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+474,SMR,NY.GNP.MKTP.PP.CD,Estimates are based on regression.
+475,SMR,NY.GDP.MKTP.PP.KD,Estimates are based on regression.
+476,SMR,NY.GDP.MKTP.PP.CD,Estimates are based on regression.
+477,SMR,NY.GDP.PCAP.PP.KD,Estimates are based on regression.
+478,SMR,NY.GNP.PCAP.PP.CD,Estimates are based on regression.
+479,SOM,NY.GNP.PCAP.PP.CD,Estimates are based on regression.
+480,SOM,NY.GDP.MKTP.PP.CD,Estimates are based on regression.
+481,SOM,NY.GDP.PCAP.PP.KD,Estimates are based on regression.
+482,SOM,NY.GDP.MKTP.PP.KD,Estimates are based on regression.
+483,SOM,NY.GNP.MKTP.PP.CD,Estimates are based on regression.
+484,SOM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+485,SOM,NY.GDP.PCAP.PP.CD,Estimates are based on regression.
+486,SOM,SP.POP.GROW,Data sources: United Nations World Population Prospects
+487,SRB,SP.POP.GROW,"Data sources: Statistical Office of the Republic of Serbia, Eurostat, TransMONEE, Council of Europe. Excluding Kosovo for all years 1950-2011"
+488,SRB,SP.POP.0014.TO,Derived using ratio of age group from WPP and World Bank population.
+489,SRB,SP.POP.1564.MA.IN,Derived using ratio of age group from WPP and World Bank population.
+490,SRB,SP.POP.0014.TO.ZS,Including Kosovo.
+491,SRB,SP.POP.TOTL,"Data sources : Statistical Office of the Republic of Serbia, Eurostat, TransMONEE, Council of Europe. Note : Excluding Kosovo."
+492,SRB,SP.POP.1564.FE.IN,Derived using ratio of age group from WPP and World Bank population.
+493,SRB,SP.POP.1564.TO.ZS,Including Kosovo.
+494,SRB,SP.POP.1564.TO,Derived using ratio of age group from WPP and World Bank population.
+495,SRB,SP.POP.0014.MA.IN,Derived using ratio of age group from WPP and World Bank population.
+496,SRB,SP.POP.0014.FE.IN,Derived using ratio of age group from WPP and World Bank population.
+497,SRB,SP.POP.TOTL.FE.ZS,Excluding Kosovo.
+498,SRB,SP.POP.TOTL.MA.ZS,Excluding Kosovo.
+499,STP,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+500,STP,SP.POP.GROW,Data sources: United Nations World Population Prospects
+501,SUR,SP.POP.GROW,Data sources: United Nations World Population Prospects
+502,SUR,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+503,SVK,SP.POP.TOTL,Data sources : Eurostat
+504,SVK,SP.POP.GROW,Data sources : Eurostat
+505,SVN,SP.POP.GROW,Data sources : Eurostat
+506,SVN,SP.POP.TOTL,Data sources : Eurostat
+507,SWE,SP.POP.TOTL,Data sources : Eurostat
+508,SWE,SP.POP.GROW,Data sources : Eurostat
+509,SWZ,SP.POP.GROW,Data sources: United Nations World Population Prospects
+510,SWZ,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+511,SYC,SP.POP.TOTL,Data sources : National Bureau of Statistics
+512,SYC,SP.POP.GROW,Data sources: National Bureau of Statistics
+513,SYR,SP.POP.GROW,Data sources : United Nations World Population Prospects
+514,SYR,NY.GDP.PCAP.PP.CD,Estimates are based on regression.
+515,SYR,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+516,SYR,NY.GNP.MKTP.PP.CD,Estimates are based on regression.
+517,SYR,NY.GDP.MKTP.PP.KD,Estimates are based on regression.
+518,SYR,NY.GNP.PCAP.PP.CD,Estimates are based on regression.
+519,SYR,NY.GDP.MKTP.PP.CD,Estimates are based on regression.
+520,SYR,NY.GDP.PCAP.PP.KD,Estimates are based on regression.
+521,TCA,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+522,TCA,SP.POP.GROW,Data sources: United Nations World Population Prospects
+523,TCD,SP.POP.GROW,Data sources: United Nations World Population Prospects
+524,TCD,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+525,TGO,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+526,TGO,SP.POP.GROW,Data sources: United Nations World Population Prospects
+527,THA,SP.POP.GROW,Data sources: United Nations World Population Prospects
+528,THA,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+529,TJK,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+530,TJK,SP.POP.GROW,Data sources: United Nations World Population Prospects
+531,TKM,SP.POP.GROW,Data sources: United Nations World Population Prospects
+532,TKM,NY.GDP.PCAP.PP.CD,Estimates are based on regression.
+533,TKM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+534,TKM,NY.GDP.MKTP.PP.KD,Estimates are based on regression.
+535,TKM,NY.GNP.MKTP.PP.CD,Estimates are based on regression.
+536,TKM,NY.GDP.PCAP.PP.KD,Estimates are based on regression.
+537,TKM,NY.GDP.MKTP.PP.CD,Estimates are based on regression.
+538,TKM,NY.GNP.PCAP.PP.CD,Estimates are based on regression.
+539,TLS,NY.GNP.PCAP.PP.CD,Estimates are based on regression.
+540,TLS,NY.GDP.MKTP.PP.CD,Estimates are based on regression.
+541,TLS,NY.GDP.PCAP.PP.KD,Estimates are based on regression.
+542,TLS,NY.GNP.MKTP.PP.CD,Estimates are based on regression.
+543,TLS,NY.GDP.MKTP.PP.KD,Estimates are based on regression.
+544,TLS,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+545,TLS,NY.GDP.PCAP.PP.CD,Estimates are based on regression.
+546,TLS,SP.POP.GROW,Data sources : United Nations World Population Prospects
+547,TON,SP.POP.GROW,Data sources: United Nations World Population Prospects
+548,TON,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+549,TTO,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+550,TTO,SP.POP.GROW,Data sources: United Nations World Population Prospects
+551,TUN,SP.POP.GROW,Data sources : United Nations World Population Prospects
+552,TUN,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+553,TUR,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+554,TUR,SP.POP.GROW,Data sources : United Nations World Population Prospects
+555,TUV,SP.POP.GROW,Data sources: United Nations World Population Prospects
+556,TUV,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+557,TZA,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+558,TZA,NY.GDP.PCAP.CD,Covers mainland Tanzania only.
+559,TZA,SP.POP.1564.TO.ZS,Including Zanzibar.
+560,TZA,NY.GDP.PCAP.KD,Covers mainland Tanzania only.
+561,TZA,SP.POP.GROW,Data sources: United Nations World Population Prospects
+562,TZA,NY.GDP.PCAP.PP.CD,Covers mainland Tanzania only.
+563,TZA,SP.POP.0014.TO.ZS,Including Zanzibar.
+564,TZA,NY.GDP.PCAP.PP.KD,Covers mainland Tanzania only.
+565,TZA,NY.GNP.PCAP.PP.CD,Covers mainland Tanzania only.
+566,TZA,NY.GNP.PCAP.CD,Covers mainland Tanzania only.
+567,TZA,SP.POP.TOTL.MA.ZS,Including Zanzibar.
+568,TZA,SP.POP.TOTL.FE.ZS,Including Zanzibar.
+569,UGA,SP.POP.GROW,Data sources: United Nations World Population Prospects
+570,UGA,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+571,UKR,SP.POP.TOTL,"Data sources : State Statistics Committee of Ukraine, United Nations World Population Prospects, Council of Europe, United Nations Population and Vital Statistics Report"
+572,UKR,SP.POP.GROW,"Data sources: State Statistics Committee of Ukraine, United Nations World Population Prospects, Council of Europe, United Nations Population and Vital Statistics Report"
+573,URY,SP.POP.GROW,Data sources: United Nations World Population Prospects
+574,URY,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+575,USA,SP.POP.TOTL,Data sources : U.S. Census Bureau
+576,USA,SP.POP.GROW,Data sources: U.S. Census Bureau
+577,UZB,SP.POP.GROW,"Data sources : State Committee of the Republic of Uzbekistan on Statistics, United Nations World Population Prospects"
+578,UZB,NY.GDP.PCAP.PP.CD,Estimates are based on regression.
+579,UZB,SP.POP.TOTL,"Data sources : State Committee of the Republic of Uzbekistan on Statistics, United Nations World Population Prospects"
+580,UZB,NY.GDP.MKTP.PP.KD,Estimates are based on regression.
+581,UZB,NY.GNP.MKTP.PP.CD,Estimates are based on regression.
+582,UZB,NY.GNP.PCAP.PP.CD,Estimates are based on regression.
+583,UZB,NY.GDP.PCAP.PP.KD,Estimates are based on regression.
+584,UZB,NY.GDP.MKTP.PP.CD,Estimates are based on regression.
+585,VCT,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+586,VCT,SP.POP.GROW,Data sources: United Nations World Population Prospects
+587,VEN,SP.POP.GROW,Data sources: United Nations World Population Prospects
+588,VEN,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+589,VEN,NY.GNP.PCAP.CD,Based on official exchange rates.
+590,VIR,SP.POP.TOTL,"Data sources : U.S. Census Bureau, United Nations Population and Vital Statistics Report"
+591,VIR,SP.POP.GROW,"Data sources: U.S. Census Bureau, United Nations Population and Vital Statistics Report"
+592,VNM,SP.POP.GROW,Data sources: General Statistics Office of Vietnam
+593,VNM,SP.POP.TOTL,Data sources : General Statistics Office of Vietnam
+594,VUT,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+595,VUT,SP.POP.GROW,Data sources: United Nations World Population Prospects
+596,WSM,SP.POP.GROW,Data sources: United Nations World Population Prospects
+597,WSM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+598,XKX,SP.POP.TOTL,"Data sources : World Bank's Kosovo coutnry office, Kosovo Agency of Statistics, U.S. Census Bureau"
+599,XKX,NY.GDP.MKTP.PP.KD,Estimates are based on regression.
+600,XKX,NY.GNP.MKTP.PP.CD,Estimates are based on regression.
+601,XKX,SP.POP.GROW,"Data sources: World Bank's Kosovo coutnry office, Kosovo Agency of Statistics, U.S. Census Bureau"
+602,XKX,NY.GDP.PCAP.PP.CD,Estimates are based on regression.
+603,XKX,NY.GNP.PCAP.PP.CD,Estimates are based on regression.
+604,XKX,NY.GDP.MKTP.PP.CD,Estimates are based on regression.
+605,XKX,NY.GDP.PCAP.PP.KD,Estimates are based on regression.
+606,YEM,SP.POP.GROW,Data sources: United Nations World Population Prospects
+607,YEM,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+608,ZAF,SP.POP.TOTL,"Data sources : Statistics South Africa, United Nations World Population Prospects"
+609,ZAF,SP.POP.GROW,"Data sources : Statistics South Africa, United Nations World Population Prospects"
+610,ZMB,SP.POP.GROW,Data sources: United Nations World Population Prospects
+611,ZMB,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+612,ZWE,SP.POP.TOTL,Data sources : United Nations World Population Prospects
+613,ZWE,SP.POP.GROW,Data sources: United Nations World Population Prospects
